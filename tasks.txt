@@ -1,0 +1,17 @@
+# milestone: Core Communication & Control (3 days)
+Implement ESP-NOW communication between remote and VFD unit
+Design and implement Modbus RTU protocol for VFD control
+Test dual VFD control logic
+
+# milestone: Telemetry & Monitoring (4 days)
+Develop UDP broadcast for telemetry data
+Implement local data logging on VFD unit
+Develop error monitoring and reporting system
+
+# milestone: Cloud & Mobile Integration (2 days)
+Integrate WebSocket client for cloud data upload
+Create Flutter mobile app dashboard UI
+
+# milestone: Advanced Features & Documentation (4 days)
+Implement OTA firmware update via ESP-NOW
+Document system architecture and usage
